@@ -1,0 +1,96 @@
+LINEAR REGRESSION RESULTS
+============================================================
+Slope: 0.00102308 cm/day
+Intercept: -3.1739 cm
+R-squared: 0.2259
+P-value: 8.106437e-15
+Standard Error: 0.00012327
+
+============================================================
+WATER STORAGE CHANGE IN FINLAND
+============================================================
+Rate: 0.3737 cm/year
+Volume change: 1.24e+09 cubic meters per year
+Mass change: 1.2415 gigatons per year
+
+🔵 Finland is GAINING approximately 1.2415 gigatons of water per year
+
+============================================================
+ANNUAL STATISTICS
+============================================================
+ year  mean_twsa   min_twsa  max_twsa  std_twsa  count  mean_z_score
+ 2002  -8.078845 -12.774193  0.055535  4.709453      8     -2.379395
+ 2003  -5.875520 -12.108413  0.994061  3.516977     11     -1.794842
+ 2004   0.233297  -3.946094  8.196609  3.424759     12     -0.174144
+ 2005   0.362718  -5.893318  8.170953  3.612083     12     -0.139808
+ 2006  -3.403026 -12.152193  6.336295  6.056175     12     -1.138878
+ 2007   0.855826  -3.858342  4.787235  3.093847     12     -0.008984
+ 2008   2.197574  -3.323671  8.047807  4.106038     12      0.346988
+ 2009  -0.395350  -5.263106  4.011717  2.923921     12     -0.340927
+ 2010  -1.955706  -5.610892  2.926909  3.126836     11     -0.754897
+ 2011   2.025323  -4.723881  8.841202  4.418276     11      0.301289
+ 2012   3.665656  -0.402035  8.663173  3.024232     10      0.736477
+ 2013   0.210891  -7.502654  5.056659  4.810840      9     -0.180088
+ 2014  -1.684189  -6.497492  4.327534  3.715379      8     -0.682862
+ 2015   3.766401  -2.832237  9.927838  3.807874      9      0.763206
+ 2016   0.251773  -4.892674  5.693908  3.541476      9     -0.169242
+ 2017   5.153008  -0.026067  9.122780  3.462423      5      1.131079
+ 2018  -2.608256  -5.448954 -0.490465  1.851524      6     -0.928021
+ 2019  -0.155078  -7.001589  8.990013  4.980491     12     -0.277182
+ 2020   5.437322  -1.110934 15.386979  5.997484     12      1.206509
+ 2021   3.216047  -2.866744  8.724628  3.766872     12      0.617194
+ 2022   4.943202  -3.435083 12.375948  5.136570     12      1.075417
+ 2023   5.246705  -1.740358 10.678953  3.771680     12      1.155937
+ 2024   7.053064   1.946551 15.118986  4.380347      9      1.635173
+
+============================================================
+EXTREME YEARS (z-score > 1.5 or < -1.5)
+============================================================
+Year 2002: EXTREMELY DRY
+  - Z-score: -2.38
+  - Mean TWSA: -8.08 cm
+  - Standard deviation: 4.71 cm
+
+Year 2003: EXTREMELY DRY
+  - Z-score: -1.79
+  - Mean TWSA: -5.88 cm
+  - Standard deviation: 3.52 cm
+
+Year 2024: EXTREMELY WET
+  - Z-score: 1.64
+  - Mean TWSA: 7.05 cm
+  - Standard deviation: 4.38 cm
+
+
+============================================================
+RECORD YEARS
+============================================================
+ Wettest year: 2024 (mean TWSA: 7.05 cm)
+ Driest year: 2002 (mean TWSA: -8.08 cm)
+Difference: 15.13 cm
+============================================================
+SUMMARY OF FINDINGS
+============================================================
+
+1. WATER STORAGE TREND:
+   Finland is GAINING approximately 1.2415 gigatons of water per year
+   This corresponds to 0.3737 cm/year change in water equivalent thickness
+
+2. EXTREME YEARS:
+   Extreme years identified (z-score > 1.5): 2002, 2003, 2024
+   - 2002: dry year with mean TWSA of -8.08 cm
+   - 2003: dry year with mean TWSA of -5.88 cm
+   - 2024: wet year with mean TWSA of 7.05 cm
+
+3. RECORD YEARS:
+   Wettest year: 2024 (mean TWSA: 7.05 cm)
+   Driest year: 2002 (mean TWSA: -8.08 cm)
+
+4. SEASONAL PATTERN:
+   Highest TWSA typically in: Mar (5.42 cm)
+   Lowest TWSA typically in: Jul (-2.99 cm)
+
+5. DATA QUALITY:
+   Total observations: 238
+   Time span: 22.5 years
+   Regression R²: 0.2259 (trend explains 22.6% of variance)
